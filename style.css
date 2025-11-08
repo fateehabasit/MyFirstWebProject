@@ -1,0 +1,84 @@
+body{
+    color: burlywood;
+    font-family: Arial;
+    font-size: 16px;
+    background-image:url(beige-leafy-watercolor-background-vector_53876-136491.avif);
+    background-size:cover;
+}
+
+h1{
+    color:rgba(0, 168, 132, 0.821);
+    font-family: Arial;
+}
+
+#whitebox{
+    background-color:white;
+    width:1850px;
+    height:800px;
+    padding:40px;
+    margin:50px;
+}
+
+#intro{
+    width: 1700;
+    height:70;
+    text-align:right;
+    background-color:rgba(127, 255, 212, 0.756);
+    padding: 20px;
+    margin:20px;
+}
+#intro h1{
+    font-size: 50px;
+    font-family: Arial;
+}
+#intro h3{
+    color:rgba(0, 168, 132, 0.821);
+    font-family: arial;
+}
+#intro p{
+    color: rgba(16, 214, 181, 0.911);
+}
+
+#sidebar{
+    background-color:aqua;
+    border:16px solid rgba(0, 168, 132, 0.821);
+    width:270px;
+    float:left;
+    margin-left:20px;
+    margin-right: 20px;
+    padding: 20px;
+}
+#sidebar ul{
+    font-size: 20px;
+}
+
+#entries{
+    width:1200px;
+    height:550px;
+    margin:20x;
+    float:right;
+}
+
+.journalentry{
+    border:6px solid rgba(88, 236, 187, 0.766);
+    width:1400px;
+    height:220px;
+    background-color:rgba(191, 255, 234, 0.921);
+    float:right;
+    padding:20px;
+    margin-bottom:20px;
+    margin-right: 20px;
+}
+
+.journalentry img{
+    float: right ;
+}
+
+.journalentry p{
+    font-size: 20px;
+}
+
+.journalentry h1{
+    text-decoration-line: underline;
+    text-decoration-style: dotted; 
+}
